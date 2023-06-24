@@ -1,6 +1,5 @@
 package br.com.testngtutorial;
 
-import org.apache.hc.core5.reactor.Command;
 import org.testng.annotations.Test;
 
 public class Test1 {
